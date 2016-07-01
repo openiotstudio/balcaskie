@@ -2,7 +2,7 @@
 
 #### What we see in the countryside, the varieties of crops planted and amount of fertilisers used, paint the landscape around us. We have digitally sampled those colours and created an evolving colour palette and paint collection, bringing the land to the sea.
 
-*Project by Rory Hamilton and Michelle Thorne*
+*Project by Rory Hamilton and Michelle Thorne at the Mozilla Open IoT Design Sprint in Anstruther, June 2016*
 
 <img src="img/small_field.jpg">
 
